@@ -12,11 +12,8 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ---
 
 ### 🔧 What I focus on
-- Backend & API design
-- System reliability & testing mindset  
-- Real-time and stateful systems  
-- Cloud & DevOps foundations 
-- Clarity through documentation
+- Backend & API design - System reliability & testing mindset - Real-time and stateful systems  - Cloud & DevOps foundations - Clarity through documentation
+
 ---
 
 ### 🚀 Selected projects
@@ -34,6 +31,7 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
   Real-time state sync, smooth 60 FPS gameplay without canvas, and event-driven architecture
 
 *(More details in pinned repositories below)*
+
 ---
 ### 🛠 Tech stack
 
@@ -50,9 +48,11 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ### 🤖 Currently working on **Generative AI–powered applications**
 
 ---
+
 ### 🧠 Background & collaboration
 Before transitioning fully into software engineering, I worked in **PR and communications in fintech (Sberbank, 100M+ users)** and in UX-oriented projects.  
 This background shaped how I approach engineering: I care about **reliability, security, user impact, and clear communication**.
+
 ---
 
 ### 📫 Let’s connect
