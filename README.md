@@ -1,9 +1,9 @@
 ## Hi, I’m Tatiana 👋
 
-I’m a **Full-stack developer** with 2 years of coding experience, with a systems and quality mindset. Сloud- and AI- enthusiastic.
+**Full-stack developer** with 2 years of coding experience, with a systems and quality mindset. Сloud- and AI- enthusiastic.
 I work with **Go, JavaScript (React/Node.js), REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**, and focused on building **clean, reliable, and observable systems**.
 
-Over the past years, I’ve built and launched several end-to-end web applications at *Kood/Sisu coding school*, 
+Over the past years, I’ve built and launched several end-to-end web applications at [*Kood/Sisu coding school*](https://koodsisu.fi/), 
 working across backend, frontend, infrastructure, and testing. 
 I focus on predictable system behavior across environments, including backend logic, state persistence, containerized deployment, and log-based debugging.
 
@@ -72,7 +72,7 @@ This background shaped how I approach engineering: I care about **reliability, s
 ## 🛠 Tech stack
 
 **Languages & frameworks**  
-Go · JavaScript · Node.js · React · Python · Bash · C (basics)
+[![Go] · [![JavaScript] · [![Node.js] · [![React] · [![Python](https://img.shields.io/badge/Python-green)](https://www.python.org/) · Bash · [![C (basics)](https://img.shields.io/badge/C-blue)]
 
 **Databases & APIs**  
 PostgreSQL · SQLite · REST APIs · WebSockets · Socket.IO
