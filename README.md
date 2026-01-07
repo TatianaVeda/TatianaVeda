@@ -12,7 +12,11 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ---
 
 ### What I focus on
-- Backend & API design - System reliability & testing mindset - Real-time and stateful systems  - Cloud & DevOps foundations - Clarity through documentation
+- Backend & API design
+- System reliability & testing mindset
+- Real-time and stateful systems
+- Cloud & DevOps foundations
+- Clarity through documentation
 
 ---
 
