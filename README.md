@@ -7,8 +7,8 @@ Over the past years, I’ve built and launched several end-to-end web applicatio
 working across backend, frontend, infrastructure, and testing. 
 I focus on predictable system behavior across environments, including backend logic, state persistence, containerized deployment, and log-based debugging.
 I’ve contributed to ~20 peer projects through code reviews, debugging, and often helping teams spot gaps early and improve system clarity.
-
 **AWS Cloud Practitioner certified**
+
 ---
 
 ### 🔧 What I focus on
@@ -37,15 +37,16 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ---
 ### 🛠 Tech stack
 
-**Languages & frameworks**  ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff) · ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) · ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) · ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ·  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=000000) · ![Bash](https://img.shields.io/badge/-Bash-%23F7DF1C?style=flat-square&logo=bash&logoColor=000000&labelColor=%23F7DF1C) ·  ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff) basics
+**Languages & frameworks**  ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=000000) · ![Bash](https://img.shields.io/badge/-Bash-%23F7DF1C?style=flat-square&logo=bash&logoColor=000000&labelColor=%23F7DF1C) ![](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff) basics
 
 **Databases & APIs**  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) · SQLite · REST APIs · WebSockets · Socket.IO
 
 **DevOps & tooling** Docker · Git · Makefiles· Linux/WSL · CI/CD basics 
 
-**Frontend & UX** ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ·![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+**Frontend & UX** ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 
 ---
+
 ### 🤖 Currently working on **Generative AI–powered applications**
 
 ---
