@@ -36,8 +36,10 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 Before transitioning fully into software engineering, I worked in **PR and communications in fintech (Sberbank, 100M+ users)** and in projects as UX-assistant.  
 
 
-**If you’re looking for someone who codes, thinks system-wide, and genuinely cares about quality and clarity, I’d be happy to connect**.
-[Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
+**If you’re looking for someone who codes, thinks system-wide, and genuinely cares about quality and clarity,
+I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
+
+---
 
 ### Selected projects
 
