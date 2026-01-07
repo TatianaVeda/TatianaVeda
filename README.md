@@ -86,10 +86,7 @@ HTML · CSS · Figma (UX prototyping)
 ---
 
 ## 📫 Let’s connect
-
-- GitHub: https://github.com/TatianaVeda  
-- LinkedIn: https://www.linkedin.com/in/tatiana-vedishcheva  
-- Email: tvvedishcheva@gmail.com
+[Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
 
 If you’re looking for someone who **codes, thinks system-wide, and genuinely cares about quality and clarity**, I’d be happy to connect.
 
