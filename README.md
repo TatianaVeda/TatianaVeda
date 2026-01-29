@@ -43,7 +43,7 @@ I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](http
 
 ### Selected projects
 
-- **Match Me** — Location-based web app | Go · React · PostgreSQL · WebSockets  
+- **Match Me** — Location-based web app | Go · JavaScript · PostgreSQL · WebSockets  
   Secure authentication, external API integrations, online/offline presence sync, and documented backend–frontend contracts
 
 - **Racetrack InfoScreens** — Real-time dashboards | React · Node.js · Socket.IO  
