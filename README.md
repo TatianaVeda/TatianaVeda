@@ -1,7 +1,7 @@
 ## *Hi, I’m Tatiana, you can also call me Tanja ;-)* 
 
 **Full-stack developer** with 2 years of coding experience, with a systems and quality mindset. Сloud- and AI- enthusiastic.
-I work with **Go, JavaScript (React/Node.js), REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**, and focused on building **clean, reliable, and observable systems**.
+I work with **Go, JavaScript (React/Node.js), Python, REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**, and focused on building **clean, reliable, and observable systems**.
 
 Over the past years, I’ve built and launched several end-to-end web applications at [**Kood/Sisu coding school**](https://koodsisu.fi/), 
 working across backend, frontend, infrastructure, and testing. 
