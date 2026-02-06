@@ -51,7 +51,7 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ---
 
 ### Background & collaboration
-👯 I’m looking to collaborate on:
+I'm keen on contributing to:
 - Full‑stack apps in Golang/Python/TypeScript
 -	Cloud‑based architectures (AWS)
 - EdTech, Wellbeing & HealthTech projects
