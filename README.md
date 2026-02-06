@@ -38,8 +38,9 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=ffffff)
 
 **DevOps & tooling**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
+![AWS_Practitioner](https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
