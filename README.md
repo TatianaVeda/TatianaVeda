@@ -52,10 +52,10 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 
 ### Background & collaboration
 👯 I’m looking to collaborate on:
-• 	full‑stack apps in Golang/Python/TypeScript
-• 	cloud‑based architectures (AWS)
-• 	EdTech, Wellbeing & HealthTech projects
-• 	AI‑powered assistants (RAG, function calling, analytics)
+- Full‑stack apps in Golang/Python/TypeScript
+-	Cloud‑based architectures (AWS)
+- EdTech, Wellbeing & HealthTech projects
+- AI‑powered assistants (RAG, function calling, analytics)
 
 **If you’re looking for someone who codes, thinks system-wide, and genuinely cares about quality and clarity,
 I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
