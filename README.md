@@ -15,7 +15,7 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 - Backend & API design
 - System reliability & testing mindset
 - Real-time and stateful systems
-- Cloud & DevOps foundations
+- Cloud & AI foundations
 - Clarity through documentation
 
 ---
@@ -51,11 +51,16 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 ---
 
 ### Background & collaboration
-Before transitioning fully into software engineering, I worked in **PR and communications in fintech (Sberbank, 100M+ users)** and in projects as UX-assistant.  
-
+👯 I’m looking to collaborate on:
+• 	full‑stack apps in Golang/Python/TypeScript
+• 	cloud‑based architectures (AWS)
+• 	EdTech, Wellbeing & HealthTech projects
+• 	AI‑powered assistants (RAG, function calling, analytics)
 
 **If you’re looking for someone who codes, thinks system-wide, and genuinely cares about quality and clarity,
 I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
+
+Before transitioning into software engineering, I worked in PR and communications in fintech (Sberbank, 100M+ users) and in projects as UX-assistant.  
 
 ---
 
@@ -76,9 +81,10 @@ I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](http
 *(More details in pinned repositories below)*
 
 ---
+ 
+If I’m not debugging code, I’m debugging life:
+🧘 + 🌲 + 🌿 + 🍄 + 🎶 + 💃 = stable mental uptime
+<!-- - 💬 Ask me about ...
+- ⚡ Fun fact: ... -->
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
 
