@@ -22,13 +22,30 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 
 ### Tech stack
 
-**Languages & frameworks**  ![Go](https://img.shields.io/badge/-Go-61DAFB?style=flat-square&logo=go&logoColor=ffffff) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A) ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=000000) ![Bash](https://img.shields.io/badge/-Bash-%23F7DF1C?style=flat-square&logo=bash&logoColor=000000&labelColor=%23F7DF1C) ![](http://img.shields.io/badge/--A8B9CC?style=flat-square&logo=C&logoColor=ffffff)
+**Languages & frameworks**  
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff) 
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffffff) 
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff) 
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 
-**Databases & APIs**  ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white) · SQLite · REST APIs · WebSockets · Socket.IO
+**Databases & APIs**  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=ffffff) 
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff) 
+![REST](https://img.shields.io/badge/-REST_APIs-FF6C37?style=flat-square&logoColor=ffffff) 
+![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=ffffff)
 
-**DevOps & tooling**  Docker · Git · Makefiles· Linux/WSL · CI/CD basics 
+**DevOps & tooling**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) 
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-**Frontend & UX**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)  ![HTML](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) ![CSS](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+**Frontend & UX**  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
+![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=ffffff) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
 
 ---
 
