@@ -86,9 +86,10 @@ Before transitioning into software engineering, I worked in PR and communication
 #### If I’m not debugging code, I’m debugging life:
 🧘 + 	🏞️ + 🌻 + 🍄 + 🎶 + 💃
 
-⚡ Fun fact:You can often find me leveling up my patience ✨
-and creative problem‑solving 💡while practising 
-inclusive soft‑skill work in daycare settings. 🌱👧🧒👦
+⚡ Fun fact:
+You can often find me leveling up my patience ✨and creative 
+problem‑solving 💡while practising inclusive soft‑skill work
+in daycare settings. 🌱👧🧒👦
 
 <!-- - 💬 Ask me about ...
 -  ... -->
