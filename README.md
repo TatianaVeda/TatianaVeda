@@ -1,27 +1,23 @@
 ### *Hi, I’m Tatiana, you can also call me Tanja ;-)* 
 
-**Full-stack developer** with 2 years of coding experience, with a systems and quality mindset. Сloud and AI enthusiastic.
-I work with **Go, JavaScript/TypeScript (React/Node.js), Python, REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**, and focused on building **clean, reliable, and observable systems**.
-
-Over the past years, I’ve built and launched several end-to-end web applications at [**Kood/Sisu coding school**](https://koodsisu.fi/), 
-working across backend, frontend, infrastructure, and testing. 
-I focus on predictable system behavior across environments, including backend logic, state persistence, containerized deployment, and log-based debugging.
-I’ve contributed to ~20 peer projects through code reviews, debugging, and often helping teams spot gaps early and improve system clarity.
+I am a junior **Full-Stack developer** with 2+ years of coding experience, based in Finland, with a growing focus on backend development and AI-powered applications.
+Over the past years, I’ve built web applications at [**Kood/Sisu coding school**](https://koodsisu.fi/), using **Go, JavaScript/TypeScript (React/Node.js), Python, REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**.
+My current project is an AI-powered wellness platform where I'm exploring LLM integration, RAG, function calling and the backend logic needed to make AI responses useful, consistent and reliable.
+ 
+I've participated in team-based development and completed 25+ peer project reviews across web, mobile, e-commerce, DevOps, and cybersecurity projects.
+I often help teams spot gaps early and improve system clarity, working across backend, frontend, documentation, and testing.
 **AWS Cloud Practitioner certified**.
 
+Before moving into software development, I worked in banking communications, fintech Public Relations, and UX-related projects. This background helps me connect technical solutions with real user needs.
 ---
-
 ### What I focus on
-- Backend & API design
-- System reliability & testing mindset
-- Real-time and stateful systems
-- Cloud & AI foundations
-- Clarity through documentation
-
+- Backend & API integrations
+- Building reliable AI-powered applications
+- Testing, debugging and improving software quality
+- Learning Cloud and DevOps practices
 ---
 
 ### Tech stack
-
 **Languages & frameworks**  
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
@@ -51,22 +47,28 @@ I’ve contributed to ~20 peer projects through code reviews, debugging, and oft
 
 ---
 
-### Background & collaboration
+ <!--  ### Background & collaboration
 I'm keen on contributing to:
 - Full‑stack apps in Golang/Python/TypeScript
 -	Cloud‑based architectures (AWS)
 - EdTech, Wellbeing & HealthTech projects
-- AI‑powered assistants (RAG, function calling, analytics)
+- AI‑powered assistants (RAG, function calling, analytics)  -->
 
 **If you’re looking for someone who codes, thinks system-wide, and genuinely cares about quality and clarity,
 I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tatiana-vedishcheva)  
 
-Before transitioning into software engineering, I worked in PR and communications in fintech (Sberbank, 100M+ users) and in projects as UX-assistant.  
-
 ---
-
 ### Selected projects
 
+- 2026 **Wellness Platform** AI-enabled full-stack app (in development) | Python, TypeScript, PostgreSQL, Redis 
+  Qwen/Groq
+  Interactive dashboard with an AI assistant, authentication, structured APIs, automated tests, and a CI pipeline. 
+•  Integrated an LLM to generate personalised wellness insights from structured user data; added response checks 
+   Redis caching, and fallback behaviour when AI is unavailable. 
+•  Built RAG-based recipe search/generation with FastEmbed and Redis Stack vector index, plus function calling for 
+   nutrition calculations and meal planning. 
+•  Developed authenticated APIs and dashboard features; user data export/deletion and automated backend tests.  
+  
 - **Match Me** — Location-based web app | Go · JavaScript · PostgreSQL · WebSockets  
   Secure authentication, external API integrations, online/offline presence sync, and documented backend–frontend contracts
 
