@@ -9,6 +9,7 @@ I often help teams spot gaps early and improve system clarity, working across ba
 **AWS Cloud Practitioner certified**.
 
 Before moving into software development, I worked in banking communications, fintech Public Relations, and UX-related projects. This background helps me connect technical solutions with real user needs.
+
 ---
 ### What I focus on
 - Backend & API integrations
@@ -37,9 +38,10 @@ Before moving into software development, I worked in banking communications, fin
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-**Frontend & UX**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
+**Frontend & UX** ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
+
 ---
  <!--  ### Background & collaboration
 I'm keen on contributing to:
