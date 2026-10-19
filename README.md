@@ -1,7 +1,7 @@
 ### *Hi, I’m Tatiana, you can also call me Tanja ;-)* 
 
 I am a junior **Full-Stack developer** with 2+ years of coding experience, based in Finland, with a growing focus on backend development and AI-powered applications.
-Over the past years, I’ve built web applications at [**Kood/Sisu coding school**](https://koodsisu.fi/), using **Go, JavaScript/TypeScript (React/Node.js), Python, REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**.
+Over the past years, I’ve built web applications at [**Kood/Sisu**](https://koodsisu.fi/) coding school, using **Go, JavaScript/TypeScript (React/Node.js), Python, REST APIs, WebSockets, PostgreSQL/SQLite, and Docker**.
 My current project is an AI-powered wellness platform where I'm exploring LLM integration, RAG, function calling and the backend logic needed to make AI responses useful, consistent and reliable.
  
 I've participated in team-based development and completed 25+ peer project reviews across web, mobile, e-commerce, DevOps, and cybersecurity projects.
