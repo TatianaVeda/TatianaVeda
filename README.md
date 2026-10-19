@@ -18,8 +18,7 @@ Before moving into software development, I worked in banking communications, fin
 ---
 
 ### Tech stack
-**Languages & frameworks**  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
+**Languages & frameworks** ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff) 
@@ -27,26 +26,21 @@ Before moving into software development, I worked in banking communications, fin
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=ffffff) 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
 
-**Databases & APIs**  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=ffffff) 
+**Databases & APIs**  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=ffffff) 
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=ffffff) 
 ![REST](https://img.shields.io/badge/-REST_APIs-FF6C37?style=flat-square&logoColor=ffffff) 
 ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?style=flat-square&logo=websocket&logoColor=ffffff)
 
-**DevOps & tooling**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
+**DevOps & tooling**  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff) 
 ![AWS_Practitioner](https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff) 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=000000) 
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
-**Frontend & UX**  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
+**Frontend & UX**  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff) 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=ffffff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=ffffff)
-
 ---
-
  <!--  ### Background & collaboration
 I'm keen on contributing to:
 - Full‑stack apps in Golang/Python/TypeScript
@@ -64,7 +58,7 @@ I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](http
   Qwen/Groq
   Interactive dashboard with an AI assistant, authentication, structured APIs, automated tests, and a CI pipeline. 
 •  Integrated an LLM to generate personalised wellness insights from structured user data; added response checks 
-   Redis caching, and fallback behaviour when AI is unavailable. 
+   Redis caching and fallback behaviour when AI is unavailable. 
 •  Built RAG-based recipe search/generation with FastEmbed and Redis Stack vector index, plus function calling for 
    nutrition calculations and meal planning. 
 •  Developed authenticated APIs and dashboard features; user data export/deletion and automated backend tests.  
