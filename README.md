@@ -84,8 +84,7 @@ I’d be happy to connect**.  [Email](tvvedishcheva@gmail.com) | [LinkedIn](http
 #### If I’m not debugging code, I’m debugging life:
 🧘 + 	🏞️ + 🌻 + 🍄 + 🎶 + 💃
 
-⚡ Fun fact:
-You can often find me leveling up my patience ✨and creative 
+⚡ Fun fact:   You can often find me leveling up my patience ✨and creative 
 problem‑solving 💡while practising inclusive soft‑skill work
 in daycare settings. 🌱👧🧒👦
 
